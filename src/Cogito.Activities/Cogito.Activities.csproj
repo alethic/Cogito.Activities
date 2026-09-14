@@ -3,7 +3,6 @@
     <PropertyGroup>
         <TargetFramework>net461</TargetFramework>
         <Description>Windows Workflow Foundation activities</Description>
-        <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>

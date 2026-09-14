@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path=".github/workflows/Cogito.Activities.yml" />
+    <File Path="Cogito.Activities.dist.msbuildproj" />
+    <File Path="Directory.Build.props" />
+    <File Path="GitVersion.yml" />
+    <File Path="global.json" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="src/Cogito.Activities.ApplicationInsights/Cogito.Activities.ApplicationInsights.csproj" />
+  <Project Path="src/Cogito.Activities.Tests/Cogito.Activities.Tests.csproj" />
+  <Project Path="src/Cogito.Activities/Cogito.Activities.csproj" />
+  <Folder Name="/dist/">
+    <Project Path="src/dist-nuget/dist-nuget.csproj" />
+  </Folder>
+</Solution>

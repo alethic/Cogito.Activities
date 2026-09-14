@@ -3,7 +3,6 @@
   <PropertyGroup>
     <TargetFramework>net451</TargetFramework>
     <Description>Windows Workflow Foundation integration into ApplicationInsights.</Description>
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
